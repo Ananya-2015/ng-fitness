@@ -1,3 +1,16 @@
 .current-training { 
     padding: 30px;
 }
+img{
+    height: 200px;
+    width: 400px;
+    padding-left: 500px;
+}
+/* .mat-card-header-text{
+    padding-left: 750x;
+
+} */
+
+.mat-card-title{
+    padding-left: 550px;
+}
